@@ -1,6 +1,6 @@
 # Perfume Online Store #
 
-This repository contains the source code for a simple website that I created using HTML and CSS
+This repository contains the source code for a simple website that I(Pat3ick390s) created using HTML and CSS
 The website is a mock up for a perfume online store.
 It consists of the following:
 * A navigation page
